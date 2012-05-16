@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  <Chief Do'er: Laci Videmsky
+  Site: http://doworkshop.com/
+  Twitter: @lacividemksy
+  Location: Berkeley CA, USA
 
 /* THANKS */
   Names (& URL):
