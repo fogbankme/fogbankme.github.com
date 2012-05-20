@@ -24,31 +24,39 @@ $(document).ready(function() {
 		  dcap: 'Lake View',
 		  dimg: 'img/RW_3_small.jpg',
 		  dtext: 'We prepped the footing making sure we had the proper rebar clearances and stability for the final pour. The view of the lake to the south is awesome!',
-		  time: 'March 2012'
+		  time: 'February 2012'
 		},
 
 	 //  {
-		//   aimg: 'http://placehold.it/60x60',
-		//   atitle: 'Laci',
-		//   adescrip: 'mybest work',
-		//   bcap: 'another',
-		//   bimg: 'http://placehold.it/554x412',
-		//   btext: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
-		//   ccap: 'test',
-		//   cimg: 'http://placehold.it/554x412',
-		//   ctext: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.'
+		//   aimg: 'img/avatar_laci.jpg',
+		//   atitle: 'opSys',
+		//   adescrip: 'King of Ping',
+		//   bcap: 'One More Tower',
+		//   bimg: 'img/RW_4_small.jpg',
+		//   btext: 'Today we began the first step in a new tower installation to extend Ranch WiFis network.',
+		//   ccap: 'Lowering Rebar Mat #1',
+		//   cimg: 'img/RW_5_small.jpg',
+		//   ctext: 'The 10x10 footing will support a 100 foot tower that will be brought to the site in multiple sections.',
+		//   dcap: 'Lake View',
+		//   dimg: 'img/RW_6_small.jpg',
+		//   dtext: 'We prepped the footing making sure we had the proper rebar clearances and stability for the final pour. The view of the lake to the south is awesome!',
+		//   time: 'March 2012'
 		// },
 
 		// {
-		//   aimg: 'http://placehold.it/60x60',
-		//   atitle: 'Laci',
-		//   adescrip: 'mybest work',
-		//   bcap: 'another',
-		//   bimg: 'http://placehold.it/554x412',
-		//   btext: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
-		//   ccap: 'test',
-		//   cimg: 'http://placehold.it/554x412',
-		//   ctext: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.'
+		//   aimg: 'img/avatar_laci.jpg',
+		//   atitle: 'opSys',
+		//   adescrip: 'King of Ping',
+		//   bcap: 'One More Tower',
+		//   bimg: 'img/RW_7_small.jpg',
+		//   btext: 'Today we began the first step in a new tower installation to extend Ranch WiFis network.',
+		//   ccap: 'Lowering Rebar Mat #1',
+		//   cimg: 'img/RW_8_small.jpg',
+		//   ctext: 'The 10x10 footing will support a 100 foot tower that will be brought to the site in multiple sections.',
+		//   dcap: 'Lake View',
+		//   dimg: 'img/RW_9_small.jpg',
+		//   dtext: 'We prepped the footing making sure we had the proper rebar clearances and stability for the final pour. The view of the lake to the south is awesome!',
+		//   time: 'April 2012'
 		// }
 
 	];
