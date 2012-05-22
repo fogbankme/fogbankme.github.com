@@ -1,4 +1,4 @@
-	<!doctype html>
+<!doctype html>
 <html class="no-js" lang="en">
 
 <head>
@@ -84,7 +84,7 @@
 
 						 		      <div id="post-body">
 						 		      	<div class="image-wrap">
-						 		      		<a href="#thumb1" data-toggle="modal">
+						 		      		<a href='{{bhref}}' data-toggle="modal">
 						 		      			<img src={{bimg}}>
 						 		      		</a>
 						 		      		<h5><span class="highlight">{{bcap}}</span></h5>
@@ -92,7 +92,7 @@
 						 		      	</div>
 						 		      	
 						 		      	<div class="image-wrap">
-						 		      		<a href="#thumb2" data-toggle="modal">
+						 		      		<a href='{{chref}}' data-toggle="modal">
 						 		      			<img src={{cimg}}>
 						 		      		</a>
 						 		      		<h5><span class="highlight">{{ccap}}</span></h5>
@@ -100,7 +100,7 @@
 						 		      	</div>
 						 		      
 						 		      	<div class="image-wrap">
-						 		      		<a href="#thumb3" data-toggle="modal">
+						 		      		<a href='{{dhref}}' data-toggle="modal">
 						 		      			<img src={{dimg}}>
 						 		      		</a>
 						 		      		<h5><span class="highlight">{{dcap}}</span></h5>
@@ -116,7 +116,7 @@
 						 		  
 						 		  </li>
 
-									 <div class="modal hide" id="thumb1">
+									 <div class="modal hide" id='{{blink}}'>
 									    <div class="modal-header">
 									      <button class="close" data-dismiss="modal">×</button>
 									      <h3>{{bcap}}</h3>
@@ -126,7 +126,7 @@
 									    </div>
 									  </div>
 
-					 					<div class="modal hide" id="thumb2">
+					 					<div class="modal hide" id='{{clink}}'>
 									    <div class="modal-header">
 									      <button class="close" data-dismiss="modal">×</button>
 									      <h3>{{ccap}}</h3>
@@ -136,7 +136,7 @@
 									    </div>
 									  </div>
 
-									 	<div class="modal hide" id="thumb3">
+									 	<div class="modal hide" id='{{dlink}}'>
 									    <div class="modal-header">
 									      <button class="close" data-dismiss="modal">×</button>
 									      <h3>{{dcap}}</h3>
